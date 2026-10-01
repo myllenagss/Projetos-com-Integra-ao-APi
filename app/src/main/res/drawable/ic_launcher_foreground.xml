@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Cowboy Hat Crown -->
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M42,42 C44,35 48,34 54,34 C60,34 64,35 66,42 L67,52 L41,52 Z" />
+        <!-- Hat Crown indent top -->
+        <path
+            android:fillColor="#FF8F00"
+            android:pathData="M47,34 C50,37 58,37 61,34 C64,34 65,36 65,39 L43,39 C43,36 44,34 47,34 Z" />
+        <!-- Hat Band -->
+        <path
+            android:fillColor="#D84315"
+            android:pathData="M41,49 H67 V53 H41 Z" />
+        <!-- Hat Brim -->
+        <path
+            android:fillColor="#FFB300"
+            android:pathData="M27,53 C34,51 44,53 54,53 C64,53 74,51 81,53 C83,56 79,59 70,59 C54,60 38,59 27,55 C25,54 25,53 27,53 Z" />
+        <!-- Sheriff Star Badge -->
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M54,62 L57,69 L64,69 L59,73 L61,80 L54,76 L47,80 L49,73 L44,69 L51,69 Z" />
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M54,65 L56,70 L61,70 L57,73 L58,78 L54,75 L50,78 L51,73 L47,70 L52,70 Z" />
+        <!-- Star Center Gem -->
+        <path
+            android:fillColor="#BF360C"
+            android:pathData="M54,70 A2,2 0 1 0 54.01,70" />
+    </group>
+</vector>

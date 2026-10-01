@@ -1,0 +1,6 @@
+{
+  "name": "Cactus Souls",
+  "description": "Jogo arcade retro de tiro com dois analógicos virtuais, personalização do herói, conquistas e hordas de cactos vivos inspirado em Journey of the Prairie King.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
